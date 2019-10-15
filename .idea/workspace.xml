@@ -1,27 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e532daf-8cd0-4711-94b9-106291f4cdc1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/goal.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons-advanced/angular.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons-advanced/design-patterns.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons-advanced/functional-programming.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons-advanced/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons-advanced/rxjs.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons-junior/basis-linux-command.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons-junior/chrome-devtools.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons-junior/css.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons-junior/f2e-dev-environment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons-junior/git.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons-junior/html.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons-junior/http.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons-junior/javascript.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons-junior/nodejs.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons-junior/npm.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons-junior/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons-junior/test.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons-junior/webpack.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="6e532daf-8cd0-4711-94b9-106291f4cdc1" name="Default Changelist" comment="update">
+      <change afterPath="$PROJECT_DIR$/.idea/frontend-roadmap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,26 +17,30 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lessons-junior/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="536">
-                <caret line="40" selection-start-line="40" selection-end-line="40" />
+              <first_editor relative-caret-position="382">
+                <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lessons-junior/chrome-devtools.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -149,6 +138,7 @@
         <option value="$PROJECT_DIR$/lessons/git.md" />
         <option value="$PROJECT_DIR$/lessons/readme.md" />
         <option value="$PROJECT_DIR$/lessons-junior/readme.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -172,6 +162,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,10 +184,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -236,11 +227,20 @@
       <workItem from="1571044423893" duration="3774000" />
       <workItem from="1571107421240" duration="1812000" />
       <workItem from="1571118075614" duration="924000" />
+      <workItem from="1571119183374" duration="224000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1571119206245</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571119206246</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21428000" />
+    <option name="totallyTimeSpent" value="21652000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="972" extended-state="0" />
@@ -259,9 +259,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32951945" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32951945" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32905483" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32837528" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32788798" />
       <window_info anchor="bottom" id="TypeScript" order="11" visible="true" weight="0.32951945" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -270,6 +270,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -361,8 +365,8 @@
     <entry file="file://$PROJECT_DIR$/lessons-junior/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="536">
-            <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <first_editor relative-caret-position="382">
+            <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
           </first_editor>
           <second_editor />
         </state>
@@ -437,6 +441,13 @@
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
